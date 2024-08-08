@@ -1,0 +1,9 @@
+Dado o programa, implemente o que se pede.
+1. Crie no programa da classe Principal uma Lista que armazene os passageiros lidos.
+2. Crie um mecanismo de forma que o primeiro passageiro a ocupar um assento tem prioridade e, caso outro passageiro
+tente ocupar o mesmo assento, deve-se ignorar a tentativa de ocupar um assento já ocupado.
+3. Faça a classe Passageiro implementar a interface Comparable e implemente a comparação de forma que os passageiros
+sejam ordenados segundo os assentos escolhidos.
+4. Ao final, depois de ler todos os passageiros, mostre a lista de passageiros já ordenada usando forEach.
+5. Faça o tratamento de exceções usando as classes de Exceções corretas para que o programa não termine em caso de
+lançamento de uma exceção.

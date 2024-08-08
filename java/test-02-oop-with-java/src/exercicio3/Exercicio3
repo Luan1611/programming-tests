@@ -1,0 +1,13 @@
+Exercício 03.
+Dado o programa, faça as seguintes modificações:
+1. A partir da listaContatos, crie um Set que contenha somente os contatos não repetidos. Imprima o Set.
+2. A partir da listaContatos, crie uma nova lista que contenha somente os nomes dos contatos.
+3. A partir da listaContatos, crie uma nova lista usando stream().filter() que contenha somente os contatos de WHATSAPP.
+4. Implemente um método equals para a classe Contato que considere o número de telefone para garantir unicidade, isto é,
+dois contatos com o mesmo número de telefone são considerados iguais.
+5. Faça o mesmo do item 4 para reimplementar a função hashcode.
+6. Tendo feito os itens 4 e 5, crie um HashSet, um LinkedHashSet e um TreeSet que contenha somente os contatos não
+repetidos segundo o critério do número. Imprima os Sets.
+
+
+

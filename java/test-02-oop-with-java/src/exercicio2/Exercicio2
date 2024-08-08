@@ -1,0 +1,12 @@
+Dada o programa, implemente o que se pede.
+1. Crie uma coleção que associe um prontuário a um aluno, de acordo com os dados lidos. Cada prontuário pode estar
+associado a um único aluno, obviamente.
+2. Crie uma classe de comparação que compare alunos da seguinte forma: os alunos devem ser ordenados pelos nomes, caso
+alunos tenham nomes iguais, devem ser ordenados pelo ano de ingresso.
+3. Crie uma coleção que armazene os alunos de forma ordenada. Mostre os alunos de forma ordenada usando API Stream para
+isso.
+4. Crie uma coleção que mantenha somente os ano de ingresso que tiveram alunos ingressantes. Não deve haver repetição
+nessa coleção. Por exemplo: Se em 2023 entraram 40 alunos, deve haver uma única entrada para 2023 nessa coleção. Mostre
+os anos em que houve aluno ingressante.
+5. Use a API Stream para criar uma coleção que contenha somente os alunos ingressantes de 2023 e mostre essa coleção.
+6. Trate as possíveis exceções com as classes corretas que podem levar seu programa ao fechamento.
